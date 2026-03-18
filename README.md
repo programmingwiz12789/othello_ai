@@ -1,2 +1,2 @@
-# othello_ai
+# Othello AI
 Othello AI in VB.NET
